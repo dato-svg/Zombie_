@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3f0fc7eb91e5e3444ac4ae754ebe5638
+guid: 09a624ebba660d24480dc1fd611a67f2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8811328959021048948
-    second: turret_01_mk1_0
+      213: 1113137232546846446
+    second: 5723525_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,45 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: turret_01_mk1_0
+      name: 5723525_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 33
-        width: 40
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8b10760ffed7b580800000000000000
-      internalID: -8811328959021048948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: turret_01_mk1_1
-      rect:
-        serializedVersion: 2
-        x: 44
-        y: 85
-        width: 40
-        height: 26
+        x: 25
+        y: 0
+        width: 205
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6e2fac61a1878a640b19e2b1fcdd4108
-      internalID: -37280693
+      spriteID: ee657345a68a27f00800000000000000
+      internalID: 1113137232546846446
       vertices: []
       indices: 
       edges: []
@@ -160,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -169,9 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      turret_01_mk1_0: -8811328959021048948
-      turret_01_mk1_1: -37280693
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
